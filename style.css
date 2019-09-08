@@ -43,4 +43,7 @@ h1 {
 footer{
   display: block;
 }
-
+.pb{
+  padding-bottom: 8px;
+}
+  
